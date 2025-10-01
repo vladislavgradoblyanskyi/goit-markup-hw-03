@@ -3,6 +3,15 @@ font-family: 'Roboto', sans-serif;
 background-color: #ffffff;
 color: #434455;
 }
+p,h1,h2,h3,ul{
+margin: 0;
+}
+ul{
+padding-left: 0;
+}
+img{
+display: block;
+}
 .logo{
 font-family: 'Raleway',sans-serif;
 font-weight: 700;
@@ -93,47 +102,6 @@ text-decoration: none;
 ul{
 list-style: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .logo-tex{
 color: #F4F4FD;
