@@ -219,3 +219,14 @@ border-top: none;
 margin-bottom: 8px;
 
 }
+.footer{
+padding: 100px 0;
+}
+.footer .logo{
+display: inline-block;
+margin-bottom: 16px;
+}
+.footer-p{
+max-width: 264px;
+
+}
