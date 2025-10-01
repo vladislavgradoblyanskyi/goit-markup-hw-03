@@ -118,3 +118,35 @@ line-height: 1.5;
 color: var(--main-text-color);
 letter-spacing: 0.02em;
 }
+
+.header{
+border-bottom: 1px solid #e7e9fc;
+}
+.container{
+display: flex;
+width: 1158px;
+margin: 0;
+padding: 0 15px;
+
+}
+.nav{
+display: flex;
+align-items: center;
+
+}
+.logo{
+margin-right:  76px;
+
+}
+.menu{
+display: flex;
+gap: 40px;
+}
+.nav-list{
+padding: 24px 0;
+}
+.address1{
+display: flex;
+gap: 40px;
+
+}
