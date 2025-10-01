@@ -87,6 +87,8 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+margin-bottom: 8px;
+
 }
 .benefits-p{
 line-height: 1.5;
@@ -173,4 +175,11 @@ clip: rect(0 0 0 0);
 clip-path: inset(50%);
 border: 0;
 white-space: nowrap;
+}
+.center-list{
+display: flex;
+gap: 24px;
+}
+.center-list-punkt{
+width: calc((100% - 72px) / 4);
 }
