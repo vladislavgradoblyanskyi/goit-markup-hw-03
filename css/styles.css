@@ -87,6 +87,12 @@ color: #2e2f42;
 .team-punkt{
 background-color: #ffffff;
 }
+a{
+text-decoration: none;
+}
+ul{
+list-style: none;
+}
 
 
 
